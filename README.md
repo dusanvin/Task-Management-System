@@ -1,6 +1,8 @@
-<p>Small <em></em>Task Management System</em> for daily tasks</p>
+<p>Small <em>Task Management System</em> for daily tasks</p>
 Made with:
-- Python
-- PyQt5
-- cryptography
-- pytablericons
+<ul>
+<li>- Python</li>
+<li>- PyQt5</li>
+<li>- cryptography</li>
+<li>- pytablericons</li>
+</ul>
