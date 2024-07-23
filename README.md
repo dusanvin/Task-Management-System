@@ -1,5 +1,5 @@
 <h2>Task Management System</h2>
-<img src="https://pasteboard.co/nhGE91WTmwhh.jpg">
+<img src="https://gcdnb.pbrd.co/images/nhGE91WTmwhh.jpg?o=1">
 <p>Small <em>Task Management System</em> for daily tasks.</p>
 <div>
   <p>Made with:</p>
